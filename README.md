@@ -1,4 +1,4 @@
-**#Supplementary Files**
+##Supplementary Files
 
 Supplementary files for the comparison of IAC observed data with NOAA CPC and NASA POWER datasets for São Paulo State, Brazil.
 
