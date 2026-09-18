@@ -1,6 +1,21 @@
-##Supplementary Files
+<h2>Supplementary Files</h2>
 
-Supplementary files for the comparison of IAC observed data with NOAA CPC and NASA POWER datasets for São Paulo State, Brazil.
+<p>
+Supplementary files for the comparison of <strong>IAC observed data</strong>
+with <strong>NOAA CPC</strong> and <strong>NASA POWER</strong> datasets for
+<strong>São Paulo State, Brazil</strong>.
+</p>
 
-**Supplemental File 1** – D_orig: Results comparing D_orig from (a) NOAA CPC and (b) NASA POWER with observed IAC data.
-**Supplemental File 2** – R²: Results comparing R² from (a) NOAA CPC and (b) NASA POWER with observed IAC data.
+<p>
+<strong>Supplemental File 1 – D<sub>orig</sub>:</strong>
+Results comparing <strong>D<sub>orig</sub></strong> from
+<strong>(a) NOAA CPC</strong> and <strong>(b) NASA POWER</strong>
+with observed <strong>IAC</strong> data.
+</p>
+
+<p>
+<strong>Supplemental File 2 – R²:</strong>
+Results comparing <strong>R²</strong> from
+<strong>(a) NOAA CPC</strong> and <strong>(b) NASA POWER</strong>
+with observed <strong>IAC</strong> data.
+</p>
